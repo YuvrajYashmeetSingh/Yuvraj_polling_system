@@ -42,9 +42,13 @@ This is a basic polling system application built using React, Chart.js, Bootstra
 3. **Setup XAMPP**:Start Apache and MySQL servers in XAMPP and open mysql workbench and connect to database
 
 ## Database
--**MySQL**: used for data storage
--**MySQL workbench** : user for managing the MySQL database
+- **MySQL**: used for data storage
+- **MySQL workbench** : user for managing the MySQL database
 
 
 ## References and Resources
-React Documentation
+Chart.js Documentation <!--https://react.dev/-->
+Bootstrap Documentation
+Express.js Documentation
+MySQL Workbench
+XAMPP
