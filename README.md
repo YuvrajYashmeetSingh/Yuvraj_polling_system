@@ -47,8 +47,8 @@ This is a basic polling system application built using React, Chart.js, Bootstra
 
 
 ## References and Resources
-Chart.js Documentation <!--https://react.dev/-->
-Bootstrap Documentation
-Express.js Documentation
-MySQL Workbench
-XAMPP
+- **Chart.js Documentation**  <!--https://react.dev/-->
+- **Bootstrap Documentation**
+- **Express.js Documentation**
+- **MySQL Workbench**
+- **XAMPP**
