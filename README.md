@@ -31,13 +31,13 @@ This is a basic polling system application built using React, Chart.js, Bootstra
   
 ### Setup & Running
 
-1. **Install Dependencies**: Navigate to the frontend directory and run:
-   ```bash
-   npm install
-2. **Start the Backend** :Run the following command:
-    '''bash
+-**Install Dependencies**: Navigate to the frontend directory and run:
+   npm install 
+
+-**Start the Backend** :Run the following command:
+    ```bash
    npx nodemon index.js
-3.**Setup XAMPP**:Start Apache and MySQL servers in XAMPP and open mysql workbench and connect to database
+-**Setup XAMPP**:Start Apache and MySQL servers in XAMPP and open mysql workbench and connect to database
 
 ## Database
 -**MySQL**: used for data storage
@@ -45,4 +45,4 @@ This is a basic polling system application built using React, Chart.js, Bootstra
 
 
 ## References and Resources
-
+React Documentation
