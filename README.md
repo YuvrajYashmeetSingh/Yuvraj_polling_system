@@ -31,7 +31,7 @@ This is a basic polling system application built using React, Chart.js, Bootstra
   
 ### Setup & Running
 
-1. **Install Dependencies**: Navigate to the frontend directory and run:
+1. **Install Dependencies**: Navigate to the backend directory and run:
    ```bash
    npm install 
 
